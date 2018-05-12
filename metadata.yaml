@@ -1,0 +1,29 @@
+_repo: The-Great-German-Composers_17461
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferris, George T. (George Titus)
+    alias: Ferris, George Titus
+    birthdate: 1840
+    gutenberg_agent_id: '7404'
+    url: http://www.gutenberg.org/2009/agents/7404
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2006-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Germany'
+- !lcc 'ML'
+tableOfContents: Bach -- Handel -- Gluck -- Haydn -- Mozart -- Beethoven -- Schubert,
+  Schumann, and Franz -- Chopin -- Weber -- Mendelssohn -- Richard Wagner.
+title: The Great German Composers
+url: http://www.gutenberg.org/ebooks/17461
